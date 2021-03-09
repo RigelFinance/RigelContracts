@@ -13,4 +13,7 @@ Launch App: https://app.rigel.finance.
 - (Uni|Rigel)swapV2Pair init code hash - `20098719c62794f3fbe9630472c12b281282e79d35cf677588197925039cdf17`
 - OrionNebula - https://etherscan.io/address/0x7077E1A3D6E1011969e603cce71FC6Dd8c877B0C
 - StellarNursery - https://etherscan.io/address/0x6d0d4F84d1A5F24Dd26eB430785893D7983ec620
+- LotteryNFT - https://etherscan.io/address/0x0ff965dbb77176d13b1a79b98c14494e4b2eb414
+- Lotter - https://etherscan.io/address/0x2a1c083ea1b0dd4dc667f90b2a0a3f95a27fe21a
+- MultiCall - https://etherscan.io/address/0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441
 
